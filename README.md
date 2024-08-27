@@ -16,5 +16,5 @@
 <br>
 <strong><i>Light Mode</strong>
 <img src="./src/assets/output/light-mode.png" />
-<strong><i>Light Mode</strong>
+<strong><i>Dark Mode</strong>
 <img src="./src/assets/output/dark-mode.png" />
